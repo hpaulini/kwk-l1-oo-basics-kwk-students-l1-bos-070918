@@ -10,7 +10,7 @@ attr_accessor :color, :size, :material, :condition
   end
   
   def cobble
-    
+    puts 
   end
   
 end
