@@ -2,6 +2,6 @@
 
 class Shoe
   
-  attr_reader
+
   
 end
