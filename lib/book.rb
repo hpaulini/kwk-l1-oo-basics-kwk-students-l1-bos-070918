@@ -14,6 +14,3 @@ end
 
 great_gatsby = Book.new("And Then There Were None")
 puts great_gatsby.title
-puts great_gatsby.author
-puts great_gatsby.genre
-puts great_gatsby.page_count
