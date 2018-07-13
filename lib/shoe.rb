@@ -3,5 +3,7 @@
 class Shoe
   
 attr_reader :brand
+
+initialize ()
   
 end
