@@ -15,6 +15,3 @@ class Book
   
   
 end
-
-great_gatsby = Book.new("And Then There Were None")
-puts great_gatsby.title
